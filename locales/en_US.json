@@ -25,7 +25,7 @@
 	"hero": {
 		"subtitle": "Game servers",
 		"title": "Recreated",
-		"text": "Pretendo is a free and open source replacement for Nintendo's servers for both the 3DS and Wii U, allowing online connectivity for all, even after the original servers are discontinued",
+		"text": "Pretendo is a free and open source replacement for Nintendo's servers for both the 3DS and Wii U, allowing online connectivity for all, even after April 2024",
 		"buttons": {
 			"readMore": "Read more"
 		}
@@ -34,7 +34,7 @@
 		"title": "About us",
 		"paragraphs": [
 			"Pretendo is an open-source project that aims to recreate Nintendo Network for the 3DS and Wii U using clean-room reverse engineering.",
-			"As our services would be both free and open source, they can exist long after the inevitable closure of Nintendo Network."
+			"As our services would be both free and open source, they can exist long after the inevitable closure of Nintendo Network in April 2024."
 		]
 	},
 	"progress": {
